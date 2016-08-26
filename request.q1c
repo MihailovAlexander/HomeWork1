@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<querylist>
+	<query name="Контрагенты">
+		<text>ВЫБРАТЬ
+	Контрагенты.Ссылка
+ИЗ
+	Справочник.Контрагенты КАК Контрагенты
+</text>
+	</query>
+</querylist>
